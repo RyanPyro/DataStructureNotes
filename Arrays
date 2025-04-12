@@ -7,3 +7,5 @@ console.log(fruitArray);
 
 const cars = new Array("volvo", "jaguar", "tesla");
 console.log(cars);
+
+// Below I will showcase some array methods
