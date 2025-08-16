@@ -1,0 +1,11 @@
+//Arrays - A type of data structure that acts like a box with individual items. Each Item has its own location
+
+const fruitArray = ["banana", "apple", "orange"];
+console.log(fruitArray);
+
+//Alternate way to form an array
+
+const cars = new Array("volvo", "jaguar", "tesla");
+console.log(cars);
+
+// Below I will showcase some array methods
